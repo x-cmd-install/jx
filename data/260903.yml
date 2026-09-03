@@ -1,11 +1,13 @@
 about:
-  description: Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Cloud Native pipelines from Tekton
+  description:
+  |
+    Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Cloud Native pipelines from Tekton
   license: Apache-2.0
   homepage: https://jenkins-x.io/
   head: eed2012
   archived: false
   latestVersion: v3.17.98
-  collectedAt: 2026-09-03T05:13:44Z
+  collectedAt: 2026-09-03T22:35:51Z
 timeline:
   created: 2018-01-05
   lastCommit: 2026-09-02
@@ -13,18 +15,18 @@ timeline:
 popularity:
   star: 4690
   watcher: 118
-  fork: 793
+  fork: 792
   release: 3686
   contributor: 40
   pullRequest: 551
-  issue: 4186
+  issue: 4187
 language:
   Go: 92981
   Shell: 8513
   Makefile: 6681
   Mustache: 916
   Dockerfile: 412
-totalLine: 109503
+totalBytes: 109503
 recent:
   last30d:
     since: 2026-08-04
@@ -32,7 +34,7 @@ recent:
     mergedPR: 22
     openPR: 0
     closedIssue: 0
-    openIssue: 0
+    openIssue: 1
     commit: 45
   last90d:
     since: 2026-06-05
@@ -40,14 +42,14 @@ recent:
     mergedPR: 89
     openPR: 6
     closedIssue: 0
-    openIssue: 4
+    openIssue: 5
     commit: 186
   last180d:
     since: 2026-03-07
     release: 100
     mergedPR: 113
     openPR: 7
-    closedIssue: 2
+    closedIssue: 3
     openIssue: 5
     commit: 232
   last360d:
@@ -55,6 +57,6 @@ recent:
     release: 100
     mergedPR: 146
     openPR: 8
-    closedIssue: 2
+    closedIssue: 3
     openIssue: 6
     commit: 296
