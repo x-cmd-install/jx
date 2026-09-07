@@ -5,7 +5,7 @@ about:
   head: eed2012
   archived: false
   latestVersion: "v3.17.98"
-  collectedAt: 2026-09-07T05:45:33Z
+  collectedAt: 2026-09-07T18:58:36Z
 timeline:
   created: 2018-01-05
   lastCommit: 2026-09-02
@@ -83,7 +83,7 @@ total:
   commit: 12967
 ---
 path: /home/runner/.x-repo/github.com/jenkins-x/jx
-collectedAt: 2026-09-07T05:45:41Z
+collectedAt: 2026-09-07T18:58:43Z
 loc:
   Go:
     code: 2553
@@ -263,7 +263,7 @@ checks:
       - 'Info:   0 out of   1 pipCommand dependencies pinned'
 ---
 eget:
-  collectedAt: 2026-09-07T05:45:41+00:00
+  collectedAt: 2026-09-07T18:58:44+00:00
   platform:
     darwin/arm64:
       name:  jx-darwin-arm64.tar.gz
