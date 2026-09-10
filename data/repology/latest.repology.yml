@@ -1,0 +1,87 @@
+- repo: aur
+  srcname: jx
+  binname: jx
+  visiblename: jx
+  version: 3.16.35
+  origversion: 3.16.35-1
+  status: outdated
+  summary: Command line tool for working with Jenkins X
+  maintainers:
+    - arth@aur
+  licenses:
+    - Apache
+- repo: nix_stable_24_05
+  srcname: jx
+  visiblename: jx
+  version: 2.1.155
+  origversion: null
+  status: outdated
+  summary: Command line tool for installing and using Jenkins X
+  maintainers:
+    - wael.nasreddine@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_11
+  srcname: jx
+  visiblename: jx
+  version: 3.10.156
+  origversion: null
+  status: outdated
+  summary: Command line tool for installing and using Jenkins X
+  maintainers:
+    - wael.nasreddine@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: jx
+  visiblename: jx
+  version: 3.11.81
+  origversion: null
+  status: outdated
+  summary: Command line tool for installing and using Jenkins X
+  maintainers:
+    - wael.nasreddine@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: jx
+  visiblename: jx
+  version: 3.16.35
+  origversion: null
+  status: outdated
+  summary: Command line tool for installing and using Jenkins X
+  maintainers:
+    - wael.nasreddine@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_26_05
+  srcname: jx
+  visiblename: jx
+  version: 3.17.1
+  origversion: null
+  status: outdated
+  summary: Command line tool for installing and using Jenkins X
+  maintainers:
+    - wael.nasreddine@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_unstable
+  srcname: jx
+  visiblename: jx
+  version: 3.17.80
+  origversion: null
+  status: outdated
+  summary: Command line tool for installing and using Jenkins X
+  maintainers:
+    - wael.nasreddine@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: scoop
+  subrepo: main
+  binname: jx
+  visiblename: jx
+  version: 3.17.98
+  origversion: null
+  status: newest
+  licenses:
+    - Apache-2.0
