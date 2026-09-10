@@ -7,7 +7,7 @@ about:
   latestVersion: "v3.17.99"
   latestRelease: "v3.17.98"
   latestPrerelease: "v3.17.99"
-  collectedAt: 2026-09-10T21:14:19Z
+  collectedAt: 2026-09-10T22:44:05Z
 timeline:
   created: 2018-01-05
   lastCommit: 2026-09-09
@@ -87,7 +87,7 @@ total:
   commit: 12969
 ---
 path: /home/runner/.x-repo/github.com/jenkins-x/jx
-collectedAt: 2026-09-10T21:14:27Z
+collectedAt: 2026-09-10T22:44:13Z
 loc:
   Go:
     code: 2553
