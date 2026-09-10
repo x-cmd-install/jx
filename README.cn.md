@@ -1,62 +1,62 @@
 # jx
 
-[中文版本](./README.cn.md)
+[English version](./README.md)
 
 Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Cloud Native pipelines from Tekton
 
-![jx](https://repo.x-cmd.io/jx.svg)
+![jx](https://repo.x-cmd.io/jx.svg?lang=zh)
 
-## Install
+## 安装
 
 ```sh
 x install jx
 ```
 
-## Code insight
+## 代码规模
 
-Total: **3,600** lines of code across **49** files in the top 5 languages.
+合计: **3,600** 行代码（覆盖前 5 种语言、共 **49** 个文件）。
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
 | Go | 2,553 | 351 | 398 | 26 |
 | Yaml | 605 | 72 | 26 | 13 |
 | Sh | 256 | 38 | 63 | 7 |
 | Makefile | 148 | 9 | 47 | 2 |
 | Pan | 27 | 0 | 2 | 1 |
 
-## OpenSSF Scorecard
+## OpenSSF Scorecard 评分
 
-Overall score: **6.9 / 10**
+总评分: **6.9 / 10**
 
-Lowest-scoring checks:
+评分最低的几项:
 
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
 - **Fuzzing** (0/10) — project is not fuzzed
 
-## Source
+## 源代码
 
-- **Upstream**: <https://github.com/jenkins-x/jx>
-- **Homepage**: <https://jenkins-x.io/>
-- **License**: Apache-2.0
+- **上游仓库**: <https://github.com/jenkins-x/jx>
+- **官网**: <https://jenkins-x.io/>
+- **许可证**: Apache-2.0
 
-## Release
+## 发布
 
-- **Latest**: `v3.17.99` (2026-09-02)
-- **Last commit**: 2026-09-09
-- **Assets in release**: 22
+- **最新版本**: `v3.17.99` (2026-09-02)
+- **最近提交**: 2026-09-09
+- **Release 含资产**: 22 个
 
-## Popularity
+## 流行度
 
-- **Stars**: 4,690 · **Forks**: 791 · **Open issues**: 4,187 · **Contributors**: 40
+- **Star**: 4,690 · **Fork**: 791 · **开放 issue**: 4,187 · **贡献者**: 40
 
-## Totals (cumulative)
+## 累计统计
 
-- **Releases**: 3687 · **Merged PRs**: 4308 · **Open PRs**: 9 · **Closed issues**: 4049 · **Open issues**: 138 · **Commits**: 12969
+- **发布数**: 3687 · **已合并 PR**: 4308 · **开放 PR**: 9 · **已关闭 issue**: 4049 · **开放 issue**: 138 · **提交数**: 12969
 
-## Recent activity
+## 最近活动
 
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 19 | 19 | 0 | 0 | 1 | 39 |
 | last60d | 2026-07-12 | 65 | 59 | 2 | 0 | 4 | 114 |
@@ -65,10 +65,10 @@ Lowest-scoring checks:
 | 360d | 2025-09-15 | 100 | 147 | 8 | 3 | 6 | 298 |
 | last720d | 2024-09-20 | 100 | 324 | 8 | 11 | 6 | 658 |
 
-## Release assets
+## Release 资产
 
-| Asset | Size | Target |
-|-------|-----:|--------|
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
 | [jx-checksums.txt](https://github.com/jenkins-x/jx/releases/download/v3.17.98/jx-checksums.txt) | 932 B | `other` |
 | [jx-checksums.txt.sigstore.json](https://github.com/jenkins-x/jx/releases/download/v3.17.98/jx-checksums.txt.sigstore.json) | 9.9 KiB | `other` |
 | [jx-darwin-amd64.tar.gz](https://github.com/jenkins-x/jx/releases/download/v3.17.98/jx-darwin-amd64.tar.gz) | 32.8 MiB | `native/darwin/x64` |
@@ -92,21 +92,21 @@ Lowest-scoring checks:
 | [jx-windows-amd64.zip.sbom.json.sigstore.json](https://github.com/jenkins-x/jx/releases/download/v3.17.98/jx-windows-amd64.zip.sbom.json.sigstore.json) | 9.8 KiB | `native/win/x64` |
 | [jx-windows-amd64.zip.sigstore.json](https://github.com/jenkins-x/jx/releases/download/v3.17.98/jx-windows-amd64.zip.sigstore.json) | 9.8 KiB | `native/win/x64` |
 
-## Distribution status
+## 发行版状态
 
-Reported by **8** distros on [repology.org](https://repology.org/project/jx). **1** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
+在 [repology.org](https://repology.org/project/jx) 上共有 **8** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**7** 个 ⚠️ 使用旧版本。
 
-| Distro | Version | Status |
-|--------|---------|--------|
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
 | Nix unstable | `3.17.80` | ⚠️ outdated |
 
-## Improve this data
+## 改进这些数据
 
-Install metadata for jx lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `jx` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+jx 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `jx` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
 
-- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/jx.yml> (or whichever path the index uses)
+- **提交 issue**: <https://github.com/x-cmd/install/issues/new>
+- **编辑包条目**: <https://github.com/x-cmd/install/edit/main/jx.yml>（或索引实际使用的路径）
 
-The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T21:14:32Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T21:14:33Z._
