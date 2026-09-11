@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 932,
       "digest": "sha256:be8bde8658d7d3c960da13c2705c81db560cb714472881549fbdbff61f55e47f",
-      "download_count": 514,
+      "download_count": 541,
       "created_at": "2026-09-02T13:21:49Z",
       "updated_at": "2026-09-02T13:21:50Z",
       "browser_download_url": "https://github.com/jenkins-x/jx/releases/download/v3.17.98/jx-checksums.txt"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 32046997,
       "digest": "sha256:baf6da6346d9b8e046d865d74f53149079b07714e83da0cdfe33ce119a1b1ab1",
-      "download_count": 87,
+      "download_count": 89,
       "created_at": "2026-09-02T13:21:46Z",
       "updated_at": "2026-09-02T13:21:48Z",
       "browser_download_url": "https://github.com/jenkins-x/jx/releases/download/v3.17.98/jx-linux-amd64.tar.gz"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 32586676,
       "digest": "sha256:92530c3c8bc02b287b7214c216c1d4198d331cb9b282ea489dd80973faf8963f",
-      "download_count": 58,
+      "download_count": 59,
       "created_at": "2026-09-02T13:21:46Z",
       "updated_at": "2026-09-02T13:21:48Z",
       "browser_download_url": "https://github.com/jenkins-x/jx/releases/download/v3.17.98/jx-windows-amd64.zip"
