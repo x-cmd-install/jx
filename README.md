@@ -42,8 +42,8 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v3.17.105` (2026-09-02)
-- **Last commit**: 2026-09-16
+- **Latest**: `v3.17.112` (2026-09-18)
+- **Last commit**: 2026-09-18
 - **Assets in release**: 22
 
 ## Popularity
@@ -52,45 +52,45 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 3693 · **Merged PRs**: 4314 · **Open PRs**: 3 · **Closed issues**: 4049 · **Open issues**: 138 · **Commits**: 12981
+- **Releases**: 3700 · **Merged PRs**: 4321 · **Open PRs**: 5 · **Closed issues**: 4049 · **Open issues**: 138 · **Commits**: 12995
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 25 | 20 | 0 | 0 | 1 | 46 |
-| last60d | 2026-07-19 | 55 | 49 | 0 | 0 | 4 | 104 |
-| 90d | 2026-06-19 | 99 | 93 | 1 | 0 | 5 | 196 |
-| last180d | 2026-03-21 | 100 | 117 | 2 | 3 | 5 | 241 |
-| 360d | 2025-09-22 | 100 | 153 | 2 | 3 | 6 | 310 |
-| last720d | 2024-09-27 | 100 | 330 | 2 | 11 | 6 | 670 |
+| 30d | 2026-08-19 | 32 | 26 | 3 | 0 | 1 | 59 |
+| last60d | 2026-07-20 | 62 | 55 | 3 | 0 | 4 | 117 |
+| 90d | 2026-06-20 | 100 | 100 | 3 | 0 | 5 | 210 |
+| last180d | 2026-03-22 | 100 | 124 | 4 | 3 | 5 | 255 |
+| 360d | 2025-09-23 | 100 | 160 | 4 | 3 | 6 | 324 |
+| last720d | 2024-09-28 | 100 | 337 | 4 | 11 | 6 | 684 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [jx-checksums.txt](https://github.com/jenkins-x/jx/releases/download/v3.17.98/jx-checksums.txt) | 932 B | `other` |
-| [jx-checksums.txt.sigstore.json](https://github.com/jenkins-x/jx/releases/download/v3.17.98/jx-checksums.txt.sigstore.json) | 9.9 KiB | `other` |
-| [jx-darwin-amd64.tar.gz](https://github.com/jenkins-x/jx/releases/download/v3.17.98/jx-darwin-amd64.tar.gz) | 32.8 MiB | `native/darwin/x64` |
-| [jx-darwin-amd64.tar.gz.sbom.json](https://github.com/jenkins-x/jx/releases/download/v3.17.98/jx-darwin-amd64.tar.gz.sbom.json) | 136.3 KiB | `native/darwin/x64` |
-| [jx-darwin-amd64.tar.gz.sbom.json.sigstore.json](https://github.com/jenkins-x/jx/releases/download/v3.17.98/jx-darwin-amd64.tar.gz.sbom.json.sigstore.json) | 9.9 KiB | `native/darwin/x64` |
-| [jx-darwin-amd64.tar.gz.sigstore.json](https://github.com/jenkins-x/jx/releases/download/v3.17.98/jx-darwin-amd64.tar.gz.sigstore.json) | 9.7 KiB | `native/darwin/x64` |
-| [jx-darwin-arm64.tar.gz](https://github.com/jenkins-x/jx/releases/download/v3.17.98/jx-darwin-arm64.tar.gz) | 31.6 MiB | `native/darwin/arm64` |
-| [jx-darwin-arm64.tar.gz.sbom.json](https://github.com/jenkins-x/jx/releases/download/v3.17.98/jx-darwin-arm64.tar.gz.sbom.json) | 136.3 KiB | `native/darwin/arm64` |
-| [jx-darwin-arm64.tar.gz.sbom.json.sigstore.json](https://github.com/jenkins-x/jx/releases/download/v3.17.98/jx-darwin-arm64.tar.gz.sbom.json.sigstore.json) | 9.9 KiB | `native/darwin/arm64` |
-| [jx-darwin-arm64.tar.gz.sigstore.json](https://github.com/jenkins-x/jx/releases/download/v3.17.98/jx-darwin-arm64.tar.gz.sigstore.json) | 9.8 KiB | `native/darwin/arm64` |
-| [jx-linux-amd64.tar.gz](https://github.com/jenkins-x/jx/releases/download/v3.17.98/jx-linux-amd64.tar.gz) | 30.6 MiB | `native/linux/x64` |
-| [jx-linux-amd64.tar.gz.sbom.json](https://github.com/jenkins-x/jx/releases/download/v3.17.98/jx-linux-amd64.tar.gz.sbom.json) | 136.2 KiB | `native/linux/x64` |
-| [jx-linux-amd64.tar.gz.sbom.json.sigstore.json](https://github.com/jenkins-x/jx/releases/download/v3.17.98/jx-linux-amd64.tar.gz.sbom.json.sigstore.json) | 9.9 KiB | `native/linux/x64` |
-| [jx-linux-amd64.tar.gz.sigstore.json](https://github.com/jenkins-x/jx/releases/download/v3.17.98/jx-linux-amd64.tar.gz.sigstore.json) | 9.9 KiB | `native/linux/x64` |
-| [jx-linux-arm64.tar.gz](https://github.com/jenkins-x/jx/releases/download/v3.17.98/jx-linux-arm64.tar.gz) | 28.3 MiB | `native/linux/arm64` |
-| [jx-linux-arm64.tar.gz.sbom.json](https://github.com/jenkins-x/jx/releases/download/v3.17.98/jx-linux-arm64.tar.gz.sbom.json) | 136.2 KiB | `native/linux/arm64` |
-| [jx-linux-arm64.tar.gz.sbom.json.sigstore.json](https://github.com/jenkins-x/jx/releases/download/v3.17.98/jx-linux-arm64.tar.gz.sbom.json.sigstore.json) | 9.9 KiB | `native/linux/arm64` |
-| [jx-linux-arm64.tar.gz.sigstore.json](https://github.com/jenkins-x/jx/releases/download/v3.17.98/jx-linux-arm64.tar.gz.sigstore.json) | 9.8 KiB | `native/linux/arm64` |
-| [jx-windows-amd64.zip](https://github.com/jenkins-x/jx/releases/download/v3.17.98/jx-windows-amd64.zip) | 31.1 MiB | `native/win/x64` |
-| [jx-windows-amd64.zip.sbom.json](https://github.com/jenkins-x/jx/releases/download/v3.17.98/jx-windows-amd64.zip.sbom.json) | 139.1 KiB | `native/win/x64` |
-| [jx-windows-amd64.zip.sbom.json.sigstore.json](https://github.com/jenkins-x/jx/releases/download/v3.17.98/jx-windows-amd64.zip.sbom.json.sigstore.json) | 9.8 KiB | `native/win/x64` |
-| [jx-windows-amd64.zip.sigstore.json](https://github.com/jenkins-x/jx/releases/download/v3.17.98/jx-windows-amd64.zip.sigstore.json) | 9.8 KiB | `native/win/x64` |
+| [jx-checksums.txt](https://github.com/jenkins-x/jx/releases/download/v3.17.111/jx-checksums.txt) | 932 B | `other` |
+| [jx-checksums.txt.sigstore.json](https://github.com/jenkins-x/jx/releases/download/v3.17.111/jx-checksums.txt.sigstore.json) | 9.7 KiB | `other` |
+| [jx-darwin-amd64.tar.gz](https://github.com/jenkins-x/jx/releases/download/v3.17.111/jx-darwin-amd64.tar.gz) | 32.8 MiB | `native/darwin/x64` |
+| [jx-darwin-amd64.tar.gz.sbom.json](https://github.com/jenkins-x/jx/releases/download/v3.17.111/jx-darwin-amd64.tar.gz.sbom.json) | 136.3 KiB | `native/darwin/x64` |
+| [jx-darwin-amd64.tar.gz.sbom.json.sigstore.json](https://github.com/jenkins-x/jx/releases/download/v3.17.111/jx-darwin-amd64.tar.gz.sbom.json.sigstore.json) | 9.8 KiB | `native/darwin/x64` |
+| [jx-darwin-amd64.tar.gz.sigstore.json](https://github.com/jenkins-x/jx/releases/download/v3.17.111/jx-darwin-amd64.tar.gz.sigstore.json) | 9.8 KiB | `native/darwin/x64` |
+| [jx-darwin-arm64.tar.gz](https://github.com/jenkins-x/jx/releases/download/v3.17.111/jx-darwin-arm64.tar.gz) | 31.6 MiB | `native/darwin/arm64` |
+| [jx-darwin-arm64.tar.gz.sbom.json](https://github.com/jenkins-x/jx/releases/download/v3.17.111/jx-darwin-arm64.tar.gz.sbom.json) | 136.3 KiB | `native/darwin/arm64` |
+| [jx-darwin-arm64.tar.gz.sbom.json.sigstore.json](https://github.com/jenkins-x/jx/releases/download/v3.17.111/jx-darwin-arm64.tar.gz.sbom.json.sigstore.json) | 9.7 KiB | `native/darwin/arm64` |
+| [jx-darwin-arm64.tar.gz.sigstore.json](https://github.com/jenkins-x/jx/releases/download/v3.17.111/jx-darwin-arm64.tar.gz.sigstore.json) | 9.6 KiB | `native/darwin/arm64` |
+| [jx-linux-amd64.tar.gz](https://github.com/jenkins-x/jx/releases/download/v3.17.111/jx-linux-amd64.tar.gz) | 30.6 MiB | `native/linux/x64` |
+| [jx-linux-amd64.tar.gz.sbom.json](https://github.com/jenkins-x/jx/releases/download/v3.17.111/jx-linux-amd64.tar.gz.sbom.json) | 136.2 KiB | `native/linux/x64` |
+| [jx-linux-amd64.tar.gz.sbom.json.sigstore.json](https://github.com/jenkins-x/jx/releases/download/v3.17.111/jx-linux-amd64.tar.gz.sbom.json.sigstore.json) | 9.8 KiB | `native/linux/x64` |
+| [jx-linux-amd64.tar.gz.sigstore.json](https://github.com/jenkins-x/jx/releases/download/v3.17.111/jx-linux-amd64.tar.gz.sigstore.json) | 9.7 KiB | `native/linux/x64` |
+| [jx-linux-arm64.tar.gz](https://github.com/jenkins-x/jx/releases/download/v3.17.111/jx-linux-arm64.tar.gz) | 28.3 MiB | `native/linux/arm64` |
+| [jx-linux-arm64.tar.gz.sbom.json](https://github.com/jenkins-x/jx/releases/download/v3.17.111/jx-linux-arm64.tar.gz.sbom.json) | 136.2 KiB | `native/linux/arm64` |
+| [jx-linux-arm64.tar.gz.sbom.json.sigstore.json](https://github.com/jenkins-x/jx/releases/download/v3.17.111/jx-linux-arm64.tar.gz.sbom.json.sigstore.json) | 9.7 KiB | `native/linux/arm64` |
+| [jx-linux-arm64.tar.gz.sigstore.json](https://github.com/jenkins-x/jx/releases/download/v3.17.111/jx-linux-arm64.tar.gz.sigstore.json) | 9.7 KiB | `native/linux/arm64` |
+| [jx-windows-amd64.zip](https://github.com/jenkins-x/jx/releases/download/v3.17.111/jx-windows-amd64.zip) | 31.1 MiB | `native/win/x64` |
+| [jx-windows-amd64.zip.sbom.json](https://github.com/jenkins-x/jx/releases/download/v3.17.111/jx-windows-amd64.zip.sbom.json) | 139.1 KiB | `native/win/x64` |
+| [jx-windows-amd64.zip.sbom.json.sigstore.json](https://github.com/jenkins-x/jx/releases/download/v3.17.111/jx-windows-amd64.zip.sbom.json.sigstore.json) | 9.7 KiB | `native/win/x64` |
+| [jx-windows-amd64.zip.sigstore.json](https://github.com/jenkins-x/jx/releases/download/v3.17.111/jx-windows-amd64.zip.sigstore.json) | 9.7 KiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -101,4 +101,4 @@ Install metadata for jx lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260917.yml` · 2026-09-17T06:31:45Z._
+_Snapshot: `data/card/260918.yml` · 2026-09-18T06:07:52Z._
