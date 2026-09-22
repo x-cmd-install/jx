@@ -26,13 +26,13 @@ x install jx
 
 ## OpenSSF Scorecard 评分
 
-总评分: **6.8 / 10**
+总评分: **6.9 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (4/10) — Found 7/16 approved changesets -- score normalized to 4
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## 源代码
 
@@ -52,18 +52,18 @@ x install jx
 
 ## 累计统计
 
-- **发布数**: 3700 · **已合并 PR**: 4321 · **开放 PR**: 5 · **已关闭 issue**: 4049 · **开放 issue**: 138 · **提交数**: 12995
+- **发布数**: 3700 · **已合并 PR**: 4321 · **开放 PR**: 9 · **已关闭 issue**: 4049 · **开放 issue**: 138 · **提交数**: 12995
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 32 | 26 | 3 | 0 | 1 | 59 |
-| last60d | 2026-07-23 | 61 | 48 | 3 | 0 | 3 | 98 |
-| 90d | 2026-06-23 | 100 | 93 | 3 | 0 | 5 | 172 |
-| last180d | 2026-03-25 | 100 | 123 | 4 | 3 | 5 | 253 |
-| 360d | 2025-09-26 | 100 | 160 | 4 | 3 | 6 | 324 |
-| last720d | 2024-10-01 | 100 | 337 | 4 | 11 | 6 | 684 |
+| 30d | 2026-08-23 | 32 | 26 | 7 | 0 | 1 | 59 |
+| last60d | 2026-07-24 | 53 | 48 | 7 | 0 | 3 | 98 |
+| 90d | 2026-06-24 | 95 | 90 | 7 | 0 | 5 | 172 |
+| last180d | 2026-03-26 | 100 | 123 | 8 | 3 | 5 | 253 |
+| 360d | 2025-09-27 | 100 | 160 | 8 | 3 | 6 | 324 |
+| last720d | 2024-10-02 | 100 | 337 | 8 | 11 | 6 | 684 |
 
 ## Release 资产
 
@@ -101,4 +101,4 @@ jx 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260921.yml` · 2026-09-21T06:17:19Z._
+_数据快照: `data/card/260922.yml` · 2026-09-22T06:14:23Z._
