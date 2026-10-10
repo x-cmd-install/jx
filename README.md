@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,690 · **Forks**: 789 · **Open issues**: 4,187 · **Contributors**: 40
+- **Stars**: 4,689 · **Forks**: 789 · **Open issues**: 4,187 · **Contributors**: 40
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-09 | 14 | 7 | 9 | 0 | 0 | 20 |
-| last60d | 2026-08-10 | 36 | 26 | 9 | 0 | 1 | 59 |
-| 90d | 2026-07-11 | 82 | 71 | 9 | 0 | 4 | 141 |
-| last180d | 2026-04-12 | 100 | 119 | 10 | 3 | 5 | 231 |
-| 360d | 2025-10-14 | 100 | 158 | 10 | 3 | 6 | 321 |
-| last720d | 2024-10-19 | 100 | 331 | 10 | 9 | 6 | 674 |
+| 30d | 2026-09-10 | 13 | 7 | 9 | 0 | 0 | 20 |
+| last60d | 2026-08-11 | 32 | 26 | 9 | 0 | 1 | 59 |
+| 90d | 2026-07-12 | 78 | 67 | 9 | 0 | 4 | 141 |
+| last180d | 2026-04-13 | 100 | 110 | 10 | 3 | 5 | 231 |
+| 360d | 2025-10-15 | 100 | 158 | 10 | 3 | 6 | 321 |
+| last720d | 2024-10-20 | 100 | 329 | 10 | 9 | 6 | 672 |
 
 ## Release assets
 
@@ -101,4 +101,4 @@ Install metadata for jx lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261009.yml` · 2026-10-09T07:20:03Z._
+_Snapshot: `data/card/261010.yml` · 2026-10-10T06:49:13Z._
