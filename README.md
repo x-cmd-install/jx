@@ -42,8 +42,8 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v3.17.112` (2026-09-18)
-- **Last commit**: 2026-09-18
+- **Latest**: `v3.17.115` (2026-09-18)
+- **Last commit**: 2026-10-12
 - **Assets in release**: 22
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 3700 · **Merged PRs**: 4321 · **Open PRs**: 11 · **Closed issues**: 4049 · **Open issues**: 138 · **Commits**: 12995
+- **Releases**: 3703 · **Merged PRs**: 4324 · **Open PRs**: 6 · **Closed issues**: 4049 · **Open issues**: 138 · **Commits**: 13003
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 13 | 7 | 9 | 0 | 0 | 12 |
-| last60d | 2026-08-13 | 32 | 26 | 9 | 0 | 1 | 59 |
-| 90d | 2026-07-14 | 74 | 64 | 9 | 0 | 4 | 117 |
-| last180d | 2026-04-15 | 100 | 110 | 10 | 3 | 5 | 230 |
-| 360d | 2025-10-17 | 100 | 158 | 10 | 3 | 6 | 321 |
-| last720d | 2024-10-22 | 100 | 325 | 10 | 9 | 6 | 668 |
+| 30d | 2026-09-13 | 16 | 10 | 4 | 0 | 0 | 20 |
+| last60d | 2026-08-14 | 35 | 29 | 4 | 0 | 1 | 67 |
+| 90d | 2026-07-15 | 74 | 63 | 4 | 0 | 4 | 125 |
+| last180d | 2026-04-16 | 100 | 113 | 5 | 3 | 5 | 238 |
+| 360d | 2025-10-18 | 100 | 161 | 5 | 3 | 6 | 329 |
+| last720d | 2024-10-23 | 100 | 326 | 5 | 9 | 6 | 676 |
 
 ## Release assets
 
@@ -101,4 +101,4 @@ Install metadata for jx lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T07:02:42Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T07:54:52Z._
