@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,690 · **Forks**: 788 · **Open issues**: 4,187 · **Contributors**: 40
+- **Stars**: 4,691 · **Forks**: 787 · **Open issues**: 4,187 · **Contributors**: 40
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 8 | 7 | 0 | 0 | 0 | 17 |
-| last60d | 2026-08-23 | 40 | 34 | 4 | 0 | 1 | 77 |
-| 90d | 2026-07-24 | 61 | 56 | 4 | 0 | 3 | 118 |
-| last180d | 2026-04-25 | 100 | 118 | 4 | 3 | 5 | 247 |
-| 360d | 2025-10-27 | 100 | 165 | 5 | 3 | 6 | 336 |
-| last720d | 2024-11-01 | 100 | 327 | 5 | 9 | 6 | 669 |
+| 30d | 2026-09-23 | 8 | 7 | 0 | 0 | 0 | 17 |
+| last60d | 2026-08-24 | 40 | 34 | 4 | 0 | 1 | 77 |
+| 90d | 2026-07-25 | 61 | 56 | 4 | 0 | 3 | 118 |
+| last180d | 2026-04-26 | 100 | 118 | 4 | 3 | 5 | 247 |
+| 360d | 2025-10-28 | 100 | 163 | 5 | 3 | 6 | 336 |
+| last720d | 2024-11-02 | 100 | 327 | 5 | 9 | 6 | 669 |
 
 ## Release assets
 
@@ -92,6 +92,14 @@ Lowest-scoring checks:
 | [jx-windows-amd64.zip.sbom.json.sigstore.json](https://github.com/jenkins-x/jx/releases/download/v3.17.120/jx-windows-amd64.zip.sbom.json.sigstore.json) | 9.5 KiB | `native/win/x64` |
 | [jx-windows-amd64.zip.sigstore.json](https://github.com/jenkins-x/jx/releases/download/v3.17.120/jx-windows-amd64.zip.sigstore.json) | 9.7 KiB | `native/win/x64` |
 
+## Distribution status
+
+Reported by **8** distros on [repology.org](https://repology.org/project/jx). **1** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `3.17.80` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for jx lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `jx` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -101,4 +109,4 @@ Install metadata for jx lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:46:33Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:48:58Z._
