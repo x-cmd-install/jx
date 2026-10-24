@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 8 | 7 | 0 | 0 | 0 | 17 |
-| last60d | 2026-08-24 | 40 | 34 | 4 | 0 | 1 | 77 |
-| 90d | 2026-07-25 | 61 | 56 | 4 | 0 | 3 | 118 |
-| last180d | 2026-04-26 | 100 | 118 | 4 | 3 | 5 | 247 |
-| 360d | 2025-10-28 | 100 | 163 | 5 | 3 | 6 | 336 |
-| last720d | 2024-11-02 | 100 | 327 | 5 | 9 | 6 | 669 |
+| 30d | 2026-09-24 | 8 | 7 | 0 | 0 | 0 | 17 |
+| last60d | 2026-08-25 | 40 | 34 | 4 | 0 | 1 | 77 |
+| 90d | 2026-07-26 | 61 | 55 | 4 | 0 | 3 | 118 |
+| last180d | 2026-04-27 | 100 | 117 | 4 | 1 | 5 | 247 |
+| 360d | 2025-10-29 | 100 | 163 | 5 | 3 | 6 | 336 |
+| last720d | 2024-11-03 | 100 | 327 | 5 | 9 | 6 | 669 |
 
 ## Release assets
 
@@ -109,4 +109,4 @@ Install metadata for jx lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T05:48:58Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T05:41:39Z._
