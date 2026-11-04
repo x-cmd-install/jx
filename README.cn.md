@@ -30,7 +30,7 @@ x install jx
 
 评分最低的几项:
 
-- **Code-Review** (3/10) — Found 4/12 approved changesets -- score normalized to 3
+- **Code-Review** (3/10) — Found 4/13 approved changesets -- score normalized to 3
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
 
@@ -42,28 +42,28 @@ x install jx
 
 ## 发布
 
-- **最新版本**: `v3.17.121` (2026-10-21)
-- **最近提交**: 2026-11-02
+- **最新版本**: `v3.17.122` (2026-10-21)
+- **最近提交**: 2026-11-03
 - **Release 含资产**: 22 个
 
 ## 流行度
 
-- **Star**: 4,691 · **Fork**: 787 · **开放 issue**: 4,187 · **贡献者**: 40
+- **Star**: 4,692 · **Fork**: 787 · **开放 issue**: 4,187 · **贡献者**: 40
 
 ## 累计统计
 
-- **发布数**: 3709 · **已合并 PR**: 4330 · **开放 PR**: 6 · **已关闭 issue**: 4049 · **开放 issue**: 138 · **提交数**: 13015
+- **发布数**: 3710 · **已合并 PR**: 4331 · **开放 PR**: 6 · **已关闭 issue**: 4049 · **开放 issue**: 138 · **提交数**: 13017
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 9 | 6 | 0 | 0 | 0 | 17 |
-| last60d | 2026-09-04 | 23 | 17 | 4 | 0 | 0 | 42 |
-| 90d | 2026-08-05 | 45 | 39 | 4 | 0 | 1 | 87 |
-| last180d | 2026-05-07 | 100 | 117 | 4 | 1 | 5 | 246 |
-| 360d | 2025-11-08 | 100 | 162 | 5 | 3 | 6 | 325 |
-| last720d | 2024-11-13 | 100 | 312 | 5 | 8 | 6 | 641 |
+| 30d | 2026-10-05 | 10 | 7 | 0 | 0 | 0 | 19 |
+| last60d | 2026-09-05 | 24 | 18 | 4 | 0 | 0 | 44 |
+| 90d | 2026-08-06 | 46 | 40 | 4 | 0 | 1 | 89 |
+| last180d | 2026-05-08 | 100 | 118 | 4 | 1 | 5 | 248 |
+| 360d | 2025-11-09 | 100 | 163 | 5 | 3 | 6 | 327 |
+| last720d | 2024-11-14 | 100 | 313 | 5 | 8 | 6 | 643 |
 
 ## Release 资产
 
@@ -109,4 +109,4 @@ jx 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261103.yml` · 2026-11-03T07:57:17Z._
+_数据快照: `data/card/261104.yml` · 2026-11-04T07:34:41Z._

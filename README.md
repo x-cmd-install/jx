@@ -30,7 +30,7 @@ Overall score: **6.7 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (3/10) — Found 4/12 approved changesets -- score normalized to 3
+- **Code-Review** (3/10) — Found 4/13 approved changesets -- score normalized to 3
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (2/10) — badge detected: InProgress
 
@@ -42,28 +42,28 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v3.17.121` (2026-10-21)
-- **Last commit**: 2026-11-02
+- **Latest**: `v3.17.122` (2026-10-21)
+- **Last commit**: 2026-11-03
 - **Assets in release**: 22
 
 ## Popularity
 
-- **Stars**: 4,691 · **Forks**: 787 · **Open issues**: 4,187 · **Contributors**: 40
+- **Stars**: 4,692 · **Forks**: 787 · **Open issues**: 4,187 · **Contributors**: 40
 
 ## Totals (cumulative)
 
-- **Releases**: 3709 · **Merged PRs**: 4330 · **Open PRs**: 6 · **Closed issues**: 4049 · **Open issues**: 138 · **Commits**: 13015
+- **Releases**: 3710 · **Merged PRs**: 4331 · **Open PRs**: 6 · **Closed issues**: 4049 · **Open issues**: 138 · **Commits**: 13017
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 9 | 6 | 0 | 0 | 0 | 17 |
-| last60d | 2026-09-04 | 23 | 17 | 4 | 0 | 0 | 42 |
-| 90d | 2026-08-05 | 45 | 39 | 4 | 0 | 1 | 87 |
-| last180d | 2026-05-07 | 100 | 117 | 4 | 1 | 5 | 246 |
-| 360d | 2025-11-08 | 100 | 162 | 5 | 3 | 6 | 325 |
-| last720d | 2024-11-13 | 100 | 312 | 5 | 8 | 6 | 641 |
+| 30d | 2026-10-05 | 10 | 7 | 0 | 0 | 0 | 19 |
+| last60d | 2026-09-05 | 24 | 18 | 4 | 0 | 0 | 44 |
+| 90d | 2026-08-06 | 46 | 40 | 4 | 0 | 1 | 89 |
+| last180d | 2026-05-08 | 100 | 118 | 4 | 1 | 5 | 248 |
+| 360d | 2025-11-09 | 100 | 163 | 5 | 3 | 6 | 327 |
+| last720d | 2024-11-14 | 100 | 313 | 5 | 8 | 6 | 643 |
 
 ## Release assets
 
@@ -109,4 +109,4 @@ Install metadata for jx lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T07:57:16Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T07:34:40Z._
