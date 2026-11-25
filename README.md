@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 9 | 9 | 1 | 0 | 0 | 18 |
-| last60d | 2026-09-25 | 17 | 16 | 1 | 0 | 0 | 33 |
-| 90d | 2026-08-26 | 49 | 43 | 5 | 0 | 1 | 95 |
-| last180d | 2026-05-28 | 100 | 119 | 5 | 0 | 5 | 249 |
-| 360d | 2025-11-29 | 100 | 162 | 6 | 3 | 6 | 333 |
-| last720d | 2024-12-04 | 100 | 318 | 6 | 7 | 6 | 653 |
+| 30d | 2026-10-26 | 9 | 9 | 1 | 0 | 0 | 18 |
+| last60d | 2026-09-26 | 17 | 16 | 1 | 0 | 0 | 33 |
+| 90d | 2026-08-27 | 49 | 43 | 5 | 0 | 1 | 95 |
+| last180d | 2026-05-29 | 100 | 119 | 5 | 0 | 5 | 249 |
+| 360d | 2025-11-30 | 100 | 162 | 6 | 3 | 6 | 333 |
+| last720d | 2024-12-05 | 100 | 318 | 6 | 7 | 6 | 653 |
 
 ## Release assets
 
@@ -92,14 +92,6 @@ Lowest-scoring checks:
 | [jx-windows-amd64.zip.sbom.json.sigstore.json](https://github.com/jenkins-x/jx/releases/download/v3.17.129/jx-windows-amd64.zip.sbom.json.sigstore.json) | 9.8 KiB | `native/win/x64` |
 | [jx-windows-amd64.zip.sigstore.json](https://github.com/jenkins-x/jx/releases/download/v3.17.129/jx-windows-amd64.zip.sigstore.json) | 9.9 KiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **8** distros on [repology.org](https://repology.org/project/jx). **1** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `3.17.80` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for jx lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `jx` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -109,4 +101,4 @@ Install metadata for jx lives in the [x-cmd/install](https://github.com/x-cmd/in
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:55:14Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T10:32:17Z._
